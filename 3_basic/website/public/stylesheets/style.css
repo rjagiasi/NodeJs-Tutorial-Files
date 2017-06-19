@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+.jumbotron{
+	background: url(../images/3dcd77f.jpg) no-repeat;
+}
+footer{
+	background: #f4f4f4;
+	height: 40px;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 20px;
+	
+}

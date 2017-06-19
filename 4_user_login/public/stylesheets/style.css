@@ -1,0 +1,35 @@
+body {
+	padding: 50px;
+}
+footer{
+	background: #f4f4f4;
+	height: 40px;
+	text-align: center;
+	margin-top: 20px;
+	padding-top: 20px;
+	
+}
+.errormsg{
+	margin: 0;
+}
+.success{
+	background: #caffbf;
+	display: block;
+	color: #209907;
+}
+.info{
+	background: #c7f6fc;
+	display: block;
+	color: #1fa8ba;
+}
+.error{
+	
+	background: #f9b39d;
+	display: block;
+	color: #db481a;
+}
+.flashMessage li{
+	display: block;
+	padding: 20px;
+	text-align: center;
+}
